@@ -16,7 +16,7 @@ streamlit run Gemini.py
 
 In both apps, you need to enter your API key to authenticate with the Gemini model. The API key can be entered through the Streamlit sidebar. Make sure to enter a valid API key to access the model.
 
-Additionally, you can configure various model parameters such as temperature, top_p, top_k, and max_output_tokens to control the generation process.
+Additionally, you can configure various model parameters to control the generation process.
 
 The parameters are
 
